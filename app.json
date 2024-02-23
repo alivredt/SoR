@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/SoR/strong",
+    "repository": "https://github.com/alivredt/SoR",
     "env": {
         "SESSION": {
             "description": "اكتب هنا كود بايروجرام",
